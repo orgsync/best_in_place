@@ -1,0 +1,11 @@
+{
+  "name": "best_in_place",
+  "version": "2.0.3",
+  "ignore": [
+    "spec",
+    "test_app"
+  ],
+  "dependencies": {
+    "jquery": "x"
+  }
+}
